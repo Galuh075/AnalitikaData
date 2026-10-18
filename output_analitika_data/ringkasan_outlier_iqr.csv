@@ -1,0 +1,11 @@
+Variabel,Batas_Bawah,Batas_Atas,Jumlah_Outlier,Persen_Outlier
+targeted_productivity,0.5499999999999998,0.9500000000000002,79,6.6
+smv,-26.54,54.74,0,0.0
+wip,57.5,1969.5,22,3.2
+over_time,-6840.0,15240.0,1,0.1
+incentive,-75.0,125.0,11,0.9
+idle_time,0.0,0.0,18,1.5
+idle_men,0.0,0.0,18,1.5
+no_of_style_change,0.0,0.0,147,12.3
+no_of_workers,-63.0,129.0,0,0.0
+actual_productivity,0.35038907,1.150170598,54,4.5
